@@ -12,4 +12,4 @@ Projects: A collection of web development projects I have worked on, demonstrati
 Skills: A list of programming languages, frameworks, and tools I am proficient in.
 Contact: A section for visitors to reach out to me for collaborations, inquiries, or freelance opportunities.
 How to View:
-You can view the live portfolio website by visiting: https://github.com/kokila1930/kokila__portfolio-/actions/runs/18849353113/job/53781822372
+You can view the live portfolio website by visiting: https://kokila1930.github.io/kokila__portfolio-/
